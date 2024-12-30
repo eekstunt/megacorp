@@ -1,1 +1,3 @@
-# TODO: write the script
+echo 'created'
+echo 'analyzed'
+echo 'one'
